@@ -294,7 +294,7 @@
 				CODE_SIGN_ENTITLEMENTS = MagicXPCService/MagicXPCService.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = CZPU3C72KU;
+				DEVELOPMENT_TEAM = BDV4VC27D3;
 				INFOPLIST_FILE = MagicXPCService/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -318,7 +318,7 @@
 				CODE_SIGN_ENTITLEMENTS = MagicXPCService/MagicXPCService.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = CZPU3C72KU;
+				DEVELOPMENT_TEAM = BDV4VC27D3;
 				INFOPLIST_FILE = MagicXPCService/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -456,7 +456,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Magic 8 Ball/Magic 8 Ball.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = CZPU3C72KU;
+				DEVELOPMENT_TEAM = BDV4VC27D3;
 				INFOPLIST_FILE = "Magic 8 Ball/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -477,7 +477,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Magic 8 Ball/Magic 8 Ball.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = CZPU3C72KU;
+				DEVELOPMENT_TEAM = BDV4VC27D3;
 				INFOPLIST_FILE = "Magic 8 Ball/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
